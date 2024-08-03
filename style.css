@@ -1,0 +1,18 @@
+body{
+    text-align: center;
+}
+#apps{
+    background-color: orangered;
+}
+.line{
+    height: 6px;
+    background-color: red;
+    width: 70px;
+    margin: 8px auto;
+}
+#game{
+    background-color: black;
+}
+#chatbot{
+    background-color: orangered;
+}
